@@ -15,8 +15,7 @@ namespace MatrixRain.Console
             RainOperation rainOperation = new RainOperation(consoleOperation);
 
             rainOperation.MatrixInitialize();
-
-            System.Console.ReadKey();
+            rainOperation.Draw();
         }
     }
 }
