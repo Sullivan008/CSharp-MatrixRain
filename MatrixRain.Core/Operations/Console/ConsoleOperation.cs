@@ -17,6 +17,10 @@ namespace MatrixRain.Core.Operations.Console
 
         private static IntPtr _thisConsole;
 
+        public int ConsoleWidth { get { return System.Console.WindowWidth; } }
+
+        public int ConsoleHeight { get { return System.Console.WindowHeight; } }
+
         public ConsoleOperation()
         {
             _thisConsole = GetConsoleWindow();
@@ -35,5 +39,14 @@ namespace MatrixRain.Core.Operations.Console
         {
             ShowWindow(_thisConsole, MAXIMIZE_CODE);
         }
+
+        public void SetCursorPosition()
+        {
+
+        }
+
+        #region PRIVATE Helper Methods
+
+        #endregion
     }
 }

@@ -1,4 +1,5 @@
 ﻿using MatrixRain.Core.Operations.Console;
+using MatrixRain.Core.Operations.Rain;
 
 namespace MatrixRain.Console
 {
@@ -7,10 +8,15 @@ namespace MatrixRain.Console
         private static void Main(string[] args)
         {
             ConsoleOperation consoleOperation = new ConsoleOperation();
-
+            
             consoleOperation.Initialize();
             consoleOperation.Show();
 
+            RainOperation rainOperation = new RainOperation(consoleOperation);
+
+            rainOperation.MatrixInitialize();
+
+            System.Console.ReadKey();
         }
     }
 }
