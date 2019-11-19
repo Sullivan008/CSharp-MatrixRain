@@ -1,0 +1,6 @@
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Core\bin\Debug\MatrixRain.Core.dll
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Core\bin\Debug\MatrixRain.Core.pdb
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Core\obj\Debug\MatrixRain.Core.csprojAssemblyReference.cache
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Core\obj\Debug\MatrixRain.Core.csproj.CoreCompileInputs.cache
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Core\obj\Debug\MatrixRain.Core.dll
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Core\obj\Debug\MatrixRain.Core.pdb

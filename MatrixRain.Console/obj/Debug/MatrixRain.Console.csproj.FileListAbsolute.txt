@@ -1,0 +1,10 @@
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Console\bin\Debug\MatrixRain.Console.exe.config
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Console\bin\Debug\MatrixRain.Console.exe
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Console\bin\Debug\MatrixRain.Console.pdb
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Console\bin\Debug\MatrixRain.Core.dll
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Console\bin\Debug\MatrixRain.Core.pdb
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Console\obj\Debug\MatrixRain.Console.csprojAssemblyReference.cache
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Console\obj\Debug\MatrixRain.Console.csproj.CoreCompileInputs.cache
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Console\obj\Debug\MatrixRain.Console.csproj.CopyComplete
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Console\obj\Debug\MatrixRain.Console.exe
+C:\Users\peter.kozak\source\repos\MatrixRain\MatrixRain.Console\obj\Debug\MatrixRain.Console.pdb

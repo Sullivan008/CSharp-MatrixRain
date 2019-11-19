@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MatrixRain.Core\MatrixRain.Core.csproj">
+      <Project>{1CBBAEF1-73B8-4D80-8A80-D24AC9EB9F4B}</Project>
+      <Name>MatrixRain.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

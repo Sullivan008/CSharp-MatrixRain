@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRain", "MatrixRain\MatrixRain.csproj", "{26222AE3-CC93-4DF3-A7ED-575F785735D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRain.Console", "MatrixRain.Console\MatrixRain.Console.csproj", "{B1EBEF87-3631-462B-86FC-4E1A354CF876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRain.Core", "MatrixRain.Core\MatrixRain.Core.csproj", "{1CBBAEF1-73B8-4D80-8A80-D24AC9EB9F4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{26222AE3-CC93-4DF3-A7ED-575F785735D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{26222AE3-CC93-4DF3-A7ED-575F785735D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{26222AE3-CC93-4DF3-A7ED-575F785735D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{26222AE3-CC93-4DF3-A7ED-575F785735D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EBEF87-3631-462B-86FC-4E1A354CF876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EBEF87-3631-462B-86FC-4E1A354CF876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EBEF87-3631-462B-86FC-4E1A354CF876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EBEF87-3631-462B-86FC-4E1A354CF876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CBBAEF1-73B8-4D80-8A80-D24AC9EB9F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBBAEF1-73B8-4D80-8A80-D24AC9EB9F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBBAEF1-73B8-4D80-8A80-D24AC9EB9F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBBAEF1-73B8-4D80-8A80-D24AC9EB9F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
