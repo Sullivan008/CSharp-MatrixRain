@@ -4,6 +4,8 @@ About the application technologies and operation:
 
 ### Technologies:
 - Programming Language: C#
+- FrontEnd Side: Console Application
+- BackEnd Side: .NET Framework 4.7.2.
 
 ### Application solution structure:
 - **MatrixRain.Console**: Includes the FrontEnd Side of the application.
