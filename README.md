@@ -11,6 +11,14 @@ About the application technologies and operation:
 - **MatrixRain.Console**: Includes the FrontEnd Side of the application.
 - **MatrixRain.Core**: Includes the BackEnd Side of the application.
 
+### Installation/ Configuration:
+
+1. Restore necessary, run the following command in **PM Console**
+
+   ```
+   Update-Package -reinstall
+   ```
+
 ### About the application:
 
 This app should explain how an animation can be presented by just using normal programming functions and this one shows the famous Matrix Rain from the Movie Matrix.
