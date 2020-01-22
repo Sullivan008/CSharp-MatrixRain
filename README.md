@@ -13,7 +13,7 @@ About the application technologies and operation:
 
 ### Installation/ Configuration:
 
-1. Restore necessary, run the following command in **PM Console**
+1. Restore necessary Packages, run the following command in **PM Console**
 
    ```
    Update-Package -reinstall
